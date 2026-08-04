@@ -1,0 +1,6 @@
+[submodule "BatteryModels"]
+	path = BatteryModels
+	url = https://github.com/Fo170/BatteryModels.git
+[submodule "Kalman"]
+	path = Kalman
+	url = https://github.com/Fo170/BatteryKalman.git

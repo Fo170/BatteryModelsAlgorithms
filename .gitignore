@@ -1,0 +1,10 @@
+# Fichiers d'instructions workspace — ne jamais publier
+AGENTS.md
+CLAUDE.md
+copilot-instructions.md
+
+# Réglages personnels Claude Code
+.claude/settings.local.json
+
+# Artefacts de conflit générés par la synchronisation Synology Drive
+*_Conflict*
