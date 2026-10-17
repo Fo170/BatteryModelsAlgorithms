@@ -4,3 +4,12 @@
 [submodule "BatteryKalman"]
 	path = BatteryKalman
 	url = https://github.com/Fo170/BatteryKalman.git
+[submodule "BatteryLifePredictor"]
+	path = BatteryLifePredictor
+	url = https://github.com/Fo170/BatteryLifePredictor.git
+[submodule "CoulombsAh"]
+	path = CoulombsAh
+	url = https://github.com/Fo170/CoulombsAh.git
+[submodule "Persistance"]
+	path = Persistance
+	url = https://github.com/Fo170/Persistance.git
